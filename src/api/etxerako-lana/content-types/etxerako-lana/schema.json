@@ -4,7 +4,8 @@
   "info": {
     "singularName": "etxerako-lana",
     "pluralName": "etxerako-lanak",
-    "displayName": "Etxerako_lana"
+    "displayName": "Etxerako_lana",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -31,6 +32,9 @@
         "Gorputz Hezkuntza",
         "Tutoretza"
       ]
+    },
+    "eginda": {
+      "type": "boolean"
     }
   }
 }
