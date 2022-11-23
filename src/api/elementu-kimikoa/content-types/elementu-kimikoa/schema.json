@@ -4,7 +4,8 @@
   "info": {
     "singularName": "elementu-kimikoa",
     "pluralName": "elementu-kimikoak",
-    "displayName": "Elementu_kimikoa"
+    "displayName": "Elementu_kimikoa",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -22,6 +23,15 @@
     },
     "izena": {
       "type": "string"
+    },
+    "mota": {
+      "type": "enumeration",
+      "enum": [
+        "ez-metala",
+        "erdimetala",
+        "metala",
+        "gas-geldoa"
+      ]
     }
   }
 }
