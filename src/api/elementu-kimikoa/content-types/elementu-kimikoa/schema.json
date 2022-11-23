@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "elementu_kimikoak",
+  "info": {
+    "singularName": "elementu-kimikoa",
+    "pluralName": "elementu-kimikoak",
+    "displayName": "Elementu_kimikoa"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "sinboloa": {
+      "type": "string"
+    },
+    "zenbaki_atomikoa": {
+      "type": "integer"
+    },
+    "masa_atomikoa": {
+      "type": "float"
+    },
+    "izena": {
+      "type": "string"
+    }
+  }
+}
