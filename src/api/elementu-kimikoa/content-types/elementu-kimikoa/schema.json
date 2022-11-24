@@ -27,6 +27,7 @@
     "mota": {
       "type": "enumeration",
       "enum": [
+        "hutsa",
         "ez-metala",
         "erdimetala",
         "metala",
